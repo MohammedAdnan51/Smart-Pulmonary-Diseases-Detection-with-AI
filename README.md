@@ -1,4 +1,4 @@
-# Smart-Pulmonary-Diseases-Detection-with-AI
+# Smart-Pulmonary-Diseases-Detection
 This project focuses on the **early detection of lung diseases** such as **pneumonia, tuberculosis (TB), COVID-19**, and others using **machine learning** and **medical imaging techniques**. Leveraging deep learning architectures like **VGG16** and interpretability techniques like **Grad-CAM**, the project aims to develop an automated and scalable system for lung disease classification.
 
 ## Table of Contents
